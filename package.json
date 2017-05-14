@@ -1,0 +1,16 @@
+{
+  "name": "sense",
+  "version": "0.0.0",
+  "description": "Hello Expo!",
+  "author": null,
+  "private": true,
+  "main": "main.js",
+  "dependencies": {
+    "expo": "16.0.0",
+    "firebase": "^3.8.0",
+    "react": "16.0.0-alpha.6",
+    "react-native": "https://github.com/exponent/react-native/archive/sdk-16.0.0.tar.gz",
+    "react-native-maps": "^0.14.0",
+    "react-native-maps-google": "^1.1.4"
+  }
+}
